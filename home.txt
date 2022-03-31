@@ -1,1 +1,8 @@
 Pagina Principal
+------------------
+
+Logo y la opcion de buscar
+creado menu con opciones:
+
+fotos:
+Incluido Pie de pagina:
