@@ -1,0 +1,8 @@
+Blog 
+------------
+Cabecera
+
+Seccion que muestra las entraas y
+posts.
+
+Pie de pagina 
